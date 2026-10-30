@@ -68,7 +68,7 @@ The application follows a Spring Boot microservices architecture consisting of t
 | API Gateway | Central entry point and API request routing | 8080 |
 | Auth/User Service | Student sign-up, sign-in, and JWT authentication | 8081 |
 | Event Service | Event information and event management | 8082 |
-| Registration & Ticket Service | Student registration, conflict detection, capacity enforcement, and ticket generation | Configure locally |
+| Registration & Ticket Service | Student registration, conflict detection, capacity enforcement, and ticket generation | 8083|
 
 ### API Gateway Routes
 
